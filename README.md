@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/abhinav-2102/leetcode/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/abhinav-2102/leetcode/tree/master/0088-merge-sorted-array) |
 | [0792-binary-search](https://github.com/abhinav-2102/leetcode/tree/master/0792-binary-search) |
+| [1878-check-if-array-is-sorted-and-rotated](https://github.com/abhinav-2102/leetcode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 ## Two Pointers
 |  |
 | ------- |
