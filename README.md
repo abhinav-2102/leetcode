@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/abhinav-2102/leetcode/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/abhinav-2102/leetcode/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/abhinav-2102/leetcode/tree/master/0189-rotate-array) |
+| [0231-power-of-two](https://github.com/abhinav-2102/leetcode/tree/master/0231-power-of-two) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -67,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/abhinav-2102/leetcode/tree/master/0002-add-two-numbers) |
+| [0231-power-of-two](https://github.com/abhinav-2102/leetcode/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/abhinav-2102/leetcode/tree/master/0234-palindrome-linked-list) |
 ## Sorting
 |  |
@@ -80,4 +82,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0160-intersection-of-two-linked-lists](https://github.com/abhinav-2102/leetcode/tree/master/0160-intersection-of-two-linked-lists) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0231-power-of-two](https://github.com/abhinav-2102/leetcode/tree/master/0231-power-of-two) |
 <!---LeetCode Topics End-->
