@@ -1,21 +1,35 @@
 class Solution {
 public:
-void getallsubsets(vector<int>& nums, vector<int>& ans,int i, vector<vector<int>> & allsubsets) {
-        if(i==nums.size()){
-            allsubsets.push_back({ans});
+  vector<vector<int>> Ans;
+    int n;
+    void Helper(vector<int> &op,vector<int> &nums,int startIndex){
+
+        // base case(s)
+        if(startIndex == n){
+            Ans.push_back(op);
             return;
         }
-        ans.push_back(nums[i]);
-        getallsubsets(nums, ans, i+1,allsubsets);
 
-        ans.pop_back();
-       
-        getallsubsets(nums, ans, i+1,allsubsets);
+        // recurisve case(s)
+
+        // choice 1: you take the current element
+        op.push_back(nums[startIndex]);
+        Helper(op,nums,startIndex + 1);
+
+        // backtracking step
+        op.pop_back();
+
+        // choice 2: you neglect the current element;
+        Helper(op,nums,startIndex + 1);
     }
     vector<vector<int>> subsets(vector<int>& nums) {
-        vector<vector<int>> allsubsets;
-        vector<int> ans;
-        getallsubsets(nums,ans,0,allsubsets);
-        return allsubsets;
+          
+        vector<int> op;
+        n = nums.size();
+
+        // call the helper function
+        Helper(op,nums,0);
+
+        return Ans;
     }
 };
