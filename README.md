@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/abhinav-2102/leetcode/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/abhinav-2102/leetcode/tree/master/0035-search-insert-position) |
 | [0066-plus-one](https://github.com/abhinav-2102/leetcode/tree/master/0066-plus-one) |
+| [0075-sort-colors](https://github.com/abhinav-2102/leetcode/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/abhinav-2102/leetcode/tree/master/0078-subsets) |
 | [0088-merge-sorted-array](https://github.com/abhinav-2102/leetcode/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/abhinav-2102/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -28,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0027-remove-element](https://github.com/abhinav-2102/leetcode/tree/master/0027-remove-element) |
 | [0061-rotate-list](https://github.com/abhinav-2102/leetcode/tree/master/0061-rotate-list) |
+| [0075-sort-colors](https://github.com/abhinav-2102/leetcode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/abhinav-2102/leetcode/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/abhinav-2102/leetcode/tree/master/0125-valid-palindrome) |
 | [0160-intersection-of-two-linked-lists](https://github.com/abhinav-2102/leetcode/tree/master/0160-intersection-of-two-linked-lists) |
@@ -86,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/abhinav-2102/leetcode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/abhinav-2102/leetcode/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/abhinav-2102/leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/abhinav-2102/leetcode/tree/master/0217-contains-duplicate) |
