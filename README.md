@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/abhinav-2102/leetcode/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/abhinav-2102/leetcode/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/abhinav-2102/leetcode/tree/master/0231-power-of-two) |
+| [2032-largest-odd-number-in-string](https://github.com/abhinav-2102/leetcode/tree/master/2032-largest-odd-number-in-string) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -92,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0205-isomorphic-strings](https://github.com/abhinav-2102/leetcode/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/abhinav-2102/leetcode/tree/master/0242-valid-anagram) |
 | [0812-rotate-string](https://github.com/abhinav-2102/leetcode/tree/master/0812-rotate-string) |
+| [2032-largest-odd-number-in-string](https://github.com/abhinav-2102/leetcode/tree/master/2032-largest-odd-number-in-string) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -163,4 +165,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0812-rotate-string](https://github.com/abhinav-2102/leetcode/tree/master/0812-rotate-string) |
+## Greedy
+|  |
+| ------- |
+| [2032-largest-odd-number-in-string](https://github.com/abhinav-2102/leetcode/tree/master/2032-largest-odd-number-in-string) |
 <!---LeetCode Topics End-->
