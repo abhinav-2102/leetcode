@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/abhinav-2102/leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0015-3sum](https://github.com/abhinav-2102/leetcode/tree/master/0015-3sum) |
 | [0027-remove-element](https://github.com/abhinav-2102/leetcode/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/abhinav-2102/leetcode/tree/master/0031-next-permutation) |
@@ -72,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/abhinav-2102/leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0070-climbing-stairs](https://github.com/abhinav-2102/leetcode/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/abhinav-2102/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/abhinav-2102/leetcode/tree/master/0152-maximum-product-subarray) |
@@ -100,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/abhinav-2102/leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0008-string-to-integer-atoi](https://github.com/abhinav-2102/leetcode/tree/master/0008-string-to-integer-atoi) |
 | [0013-roman-to-integer](https://github.com/abhinav-2102/leetcode/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/abhinav-2102/leetcode/tree/master/0014-longest-common-prefix) |
