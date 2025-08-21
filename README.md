@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/abhinav-2102/leetcode/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/abhinav-2102/leetcode/tree/master/0231-power-of-two) |
 | [2032-largest-odd-number-in-string](https://github.com/abhinav-2102/leetcode/tree/master/2032-largest-odd-number-in-string) |
+| [2050-count-good-numbers](https://github.com/abhinav-2102/leetcode/tree/master/2050-count-good-numbers) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -133,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/abhinav-2102/leetcode/tree/master/0002-add-two-numbers) |
 | [0231-power-of-two](https://github.com/abhinav-2102/leetcode/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/abhinav-2102/leetcode/tree/master/0234-palindrome-linked-list) |
+| [2050-count-good-numbers](https://github.com/abhinav-2102/leetcode/tree/master/2050-count-good-numbers) |
 ## Sorting
 |  |
 | ------- |
