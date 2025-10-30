@@ -150,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0225-implement-stack-using-queues](https://github.com/abhinav-2102/leetcode/tree/master/0225-implement-stack-using-queues) |
 | [0234-palindrome-linked-list](https://github.com/abhinav-2102/leetcode/tree/master/0234-palindrome-linked-list) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/abhinav-2102/leetcode/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 ## Hash Table
@@ -219,4 +220,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0966-binary-subarrays-with-sum](https://github.com/abhinav-2102/leetcode/tree/master/0966-binary-subarrays-with-sum) |
+## Design
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/abhinav-2102/leetcode/tree/master/0225-implement-stack-using-queues) |
+## Queue
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/abhinav-2102/leetcode/tree/master/0225-implement-stack-using-queues) |
 <!---LeetCode Topics End-->
