@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/abhinav-2102/leetcode/tree/master/0496-next-greater-element-i) |
 | [0540-single-element-in-a-sorted-array](https://github.com/abhinav-2102/leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/abhinav-2102/leetcode/tree/master/0560-subarray-sum-equals-k) |
+| [0658-find-k-closest-elements](https://github.com/abhinav-2102/leetcode/tree/master/0658-find-k-closest-elements) |
 | [0792-binary-search](https://github.com/abhinav-2102/leetcode/tree/master/0792-binary-search) |
 | [0907-koko-eating-bananas](https://github.com/abhinav-2102/leetcode/tree/master/0907-koko-eating-bananas) |
 | [0966-binary-subarrays-with-sum](https://github.com/abhinav-2102/leetcode/tree/master/0966-binary-subarrays-with-sum) |
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/abhinav-2102/leetcode/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/abhinav-2102/leetcode/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/abhinav-2102/leetcode/tree/master/0344-reverse-string) |
+| [0658-find-k-closest-elements](https://github.com/abhinav-2102/leetcode/tree/master/0658-find-k-closest-elements) |
 | [0680-valid-palindrome-ii](https://github.com/abhinav-2102/leetcode/tree/master/0680-valid-palindrome-ii) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/abhinav-2102/leetcode/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/abhinav-2102/leetcode/tree/master/2271-rearrange-array-elements-by-sign) |
@@ -110,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/abhinav-2102/leetcode/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/abhinav-2102/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0540-single-element-in-a-sorted-array](https://github.com/abhinav-2102/leetcode/tree/master/0540-single-element-in-a-sorted-array) |
+| [0658-find-k-closest-elements](https://github.com/abhinav-2102/leetcode/tree/master/0658-find-k-closest-elements) |
 | [0792-binary-search](https://github.com/abhinav-2102/leetcode/tree/master/0792-binary-search) |
 | [0907-koko-eating-bananas](https://github.com/abhinav-2102/leetcode/tree/master/0907-koko-eating-bananas) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/abhinav-2102/leetcode/tree/master/1056-capacity-to-ship-packages-within-d-days) |
@@ -172,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/abhinav-2102/leetcode/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/abhinav-2102/leetcode/tree/master/0242-valid-anagram) |
 | [0451-sort-characters-by-frequency](https://github.com/abhinav-2102/leetcode/tree/master/0451-sort-characters-by-frequency) |
+| [0658-find-k-closest-elements](https://github.com/abhinav-2102/leetcode/tree/master/0658-find-k-closest-elements) |
 ## Stack
 |  |
 | ------- |
@@ -245,6 +249,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/abhinav-2102/leetcode/tree/master/0451-sort-characters-by-frequency) |
+| [0658-find-k-closest-elements](https://github.com/abhinav-2102/leetcode/tree/master/0658-find-k-closest-elements) |
 ## Bucket Sort
 |  |
 | ------- |
@@ -253,6 +258,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/abhinav-2102/leetcode/tree/master/0219-contains-duplicate-ii) |
+| [0658-find-k-closest-elements](https://github.com/abhinav-2102/leetcode/tree/master/0658-find-k-closest-elements) |
 | [0966-binary-subarrays-with-sum](https://github.com/abhinav-2102/leetcode/tree/master/0966-binary-subarrays-with-sum) |
 ## Design
 |  |
