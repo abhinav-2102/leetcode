@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/abhinav-2102/leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/abhinav-2102/leetcode/tree/master/0229-majority-element-ii) |
 | [0283-move-zeroes](https://github.com/abhinav-2102/leetcode/tree/master/0283-move-zeroes) |
+| [0455-assign-cookies](https://github.com/abhinav-2102/leetcode/tree/master/0455-assign-cookies) |
 | [0485-max-consecutive-ones](https://github.com/abhinav-2102/leetcode/tree/master/0485-max-consecutive-ones) |
 | [0496-next-greater-element-i](https://github.com/abhinav-2102/leetcode/tree/master/0496-next-greater-element-i) |
 | [0540-single-element-in-a-sorted-array](https://github.com/abhinav-2102/leetcode/tree/master/0540-single-element-in-a-sorted-array) |
@@ -72,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/abhinav-2102/leetcode/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/abhinav-2102/leetcode/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/abhinav-2102/leetcode/tree/master/0344-reverse-string) |
+| [0455-assign-cookies](https://github.com/abhinav-2102/leetcode/tree/master/0455-assign-cookies) |
 | [0658-find-k-closest-elements](https://github.com/abhinav-2102/leetcode/tree/master/0658-find-k-closest-elements) |
 | [0680-valid-palindrome-ii](https://github.com/abhinav-2102/leetcode/tree/master/0680-valid-palindrome-ii) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/abhinav-2102/leetcode/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
@@ -177,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/abhinav-2102/leetcode/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/abhinav-2102/leetcode/tree/master/0242-valid-anagram) |
 | [0451-sort-characters-by-frequency](https://github.com/abhinav-2102/leetcode/tree/master/0451-sort-characters-by-frequency) |
+| [0455-assign-cookies](https://github.com/abhinav-2102/leetcode/tree/master/0455-assign-cookies) |
 | [0658-find-k-closest-elements](https://github.com/abhinav-2102/leetcode/tree/master/0658-find-k-closest-elements) |
 ## Stack
 |  |
@@ -241,6 +244,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/abhinav-2102/leetcode/tree/master/0011-container-with-most-water) |
+| [0455-assign-cookies](https://github.com/abhinav-2102/leetcode/tree/master/0455-assign-cookies) |
 | [0680-valid-palindrome-ii](https://github.com/abhinav-2102/leetcode/tree/master/0680-valid-palindrome-ii) |
 | [2032-largest-odd-number-in-string](https://github.com/abhinav-2102/leetcode/tree/master/2032-largest-odd-number-in-string) |
 ## Trie
