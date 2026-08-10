@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0540-single-element-in-a-sorted-array](https://github.com/abhinav-2102/leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/abhinav-2102/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0658-find-k-closest-elements](https://github.com/abhinav-2102/leetcode/tree/master/0658-find-k-closest-elements) |
+| [0682-baseball-game](https://github.com/abhinav-2102/leetcode/tree/master/0682-baseball-game) |
 | [0792-binary-search](https://github.com/abhinav-2102/leetcode/tree/master/0792-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/abhinav-2102/leetcode/tree/master/0875-koko-eating-bananas) |
 | [0907-koko-eating-bananas](https://github.com/abhinav-2102/leetcode/tree/master/0907-koko-eating-bananas) |
@@ -191,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/abhinav-2102/leetcode/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/abhinav-2102/leetcode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/abhinav-2102/leetcode/tree/master/0503-next-greater-element-ii) |
+| [0682-baseball-game](https://github.com/abhinav-2102/leetcode/tree/master/0682-baseball-game) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/abhinav-2102/leetcode/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 ## Hash Table
 |  |
@@ -223,6 +225,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0682-baseball-game](https://github.com/abhinav-2102/leetcode/tree/master/0682-baseball-game) |
 | [2058-concatenation-of-array](https://github.com/abhinav-2102/leetcode/tree/master/2058-concatenation-of-array) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/abhinav-2102/leetcode/tree/master/2271-rearrange-array-elements-by-sign) |
 ## Counting
